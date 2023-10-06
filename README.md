@@ -58,11 +58,6 @@ And overview over OpenShift AI, containing technical content such as release-not
 <td>May 13, 2022</td>
 </tr>
 <tr>
-<td><a href="https://github.com/redhat-et/foundation-models-for-documentation/blob/master/notebooks/finetune/Flan-T5-3B/RosaQA.ipynb">Demo: Fine-tune FLAN-T5 (an LLM)</td>
-<td>A notebook that finetunes a Flan-T5 model from HuggingFace on ROSA documentation and compares results before and after.</td>
-<td>Jun 16, 2023</td>
-</tr>
-<tr>
 <td><a href="https://ai-on-openshift.io/demos/yolov5-training-serving/yolov5-training-serving/">Demo: YoloV5 Training and Serving</td>
 <td>In this tutorial, we're going to see how you can customize YOLOv5, an object detection model, to recognize specific objects in pictures, and how to deploy and use this model.</td>
 <td>July 3, 2023</td>
@@ -87,13 +82,23 @@ And overview over OpenShift AI, containing technical content such as release-not
 <td>Jun 16, 2023</td>
 </tr>
 <tr>
+<td><a href="https://github.com/rh-aiservices-bu/llm-on-openshift">LLM deployment and application examples</a></td>
+<td>Describes how to deploy TGIS Serving, build a RAG, and more.</td>
+<td>Oct 4, 2023</td>
+</tr>
+<tr>
+<td><a href="https://github.com/redhat-et/foundation-models-for-documentation/blob/master/notebooks/finetune/Flan-T5-3B/RosaQA.ipynb">Notebook for fine-tuning FLAN-T5 (an LLM)</td>
+<td>A notebook that finetunes a Flan-T5 model from HuggingFace on ROSA documentation and compares results before and after.</br>Note: large GPU is required to run it.</td>
+<td>Jun 16, 2023</td>
+</tr>
+<tr>
 <td>Pipelines [<a href="https://docs.google.com/presentation/d/1K0MECjld3-ya5ii-nMy5cOorQ-bHw2gd9j7QpVmt_iY/edit#slide=id.g25869558928_0_79">slides</a>] [<a href="https://github.com/RHRolun/pipelines_demo">demo</a>] </td>
 <td>Simple pipeline example that covers the basic functionality with Elyra and a slide deck that goes through the functionality.</td>
 <td>July 12, 2023</td>
 </tr>
 </table>
 
-## Upcoming realease
+<!-- ## Upcoming realease
 ### 1.34 - Targeted 24/10-2023
 [GitHub](https://github.com/opendatahub-io/odh-dashboard/issues?q=label%3Arhods-1.34)
 
@@ -115,7 +120,7 @@ The accelerator can be selected from the UI for both workbenches and serving.
 ### 1.31 - 14/08-2023
 [Jira](https://issues.redhat.com/browse/RHODS-11371?jql=project%20%3D%20rhods%20AND%20%22Target%20Release%22%20%3D%20RHODS_1.31.0_GA) | [Official release documentation](https://access.redhat.com/documentation/en-us/red_hat_openshift_data_science_self-managed/1.31/html/1.31_release_notes)
 
-- Internal work for Watson.X
+- Internal work for Watson.X -->
 
 ## Other
 Roadmap: https://docs.google.com/presentation/d/1YKlaYhb8Du8clmEt3wMEWZ8F2dONp3Jbetpr2r47ego/edit#slide=id.g22b02b13193_13_0  
