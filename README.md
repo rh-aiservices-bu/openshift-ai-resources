@@ -1,5 +1,5 @@
-# OpenShiftAIOverview
-And overview over OpenShift AI, containing technical content such as release-notes and demos.
+# OpenShift AI Resources
+Easy access to technical OpenShift AI resources, such as demos and release-notes.
 
 ## Demo resources
 
