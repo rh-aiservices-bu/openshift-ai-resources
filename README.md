@@ -10,7 +10,7 @@ Easy access to technical OpenShift AI resources, such as demos and release-notes
 <th>Updated</th>
 </tr>
 <tr>
-<td>Workshop: Object Detection with Pipelines</br>[<a href="https://github.com/mamurak/os-mlops/tree/main/notebooks/object-detection-example">workshop instructions</a>][<a href="https://github.com/mamurak/os-mlops/blob/main/rhods-od-workshop-instructions.md">deployment instructions</a>]</td>
+<td>Workshop: Object Detection with Pipelines</br>[<a href="https://mamurak.github.io/rhods-od-workshop/rhods-od-workshop/index.html">workshop instructions</a>][<a href="https://github.com/mamurak/os-mlops/blob/main/rhods-od-workshop-instructions.md">deployment instructions</a>]</td>
 <td>An end-to-end workshop that covers workbenches, serving, pipelines, and integrating in applications.</td>
 <td>Aug 1, 2023</td>
 </tr>
