@@ -98,12 +98,11 @@ Easy access to technical OpenShift AI resources, such as demos and release-notes
 </tr>
 </table>
 
-<!-- ## Upcoming realease
+## Upcoming realease
 ### 1.34 - Targeted 24/10-2023
 [GitHub](https://github.com/opendatahub-io/odh-dashboard/issues?q=label%3Arhods-1.34)
 
-- **Intel Habana UI Support**  
-The accelerator can be selected from the UI for both workbenches and serving.
+- Intel Habana UI Support - The accelerator can be selected from the UI for both workbenches and serving.
 
 ## Release highlights (last 3)
 
@@ -115,12 +114,12 @@ The accelerator can be selected from the UI for both workbenches and serving.
 ### 1.32 - 04/09-2023
 [Jira](https://issues.redhat.com/browse/RHODS-11794?jql=project%20%3D%20rhods%20AND%20%22Target%20Release%22%20%3D%20RHODS_1.32.0_GA) | [Official release documentation](https://access.redhat.com/documentation/en-us/red_hat_openshift_data_science_self-managed/1.32/html/1.32_release_notes)
 
-- Internal work for Kserve + Caikit + TGIS
+- Limited availability for composite model-serving runtime based on Caikit and TGIS
 
 ### 1.31 - 14/08-2023
 [Jira](https://issues.redhat.com/browse/RHODS-11371?jql=project%20%3D%20rhods%20AND%20%22Target%20Release%22%20%3D%20RHODS_1.31.0_GA) | [Official release documentation](https://access.redhat.com/documentation/en-us/red_hat_openshift_data_science_self-managed/1.31/html/1.31_release_notes)
 
-- Internal work for Watson.X -->
+- Internal work for Watson.X
 
 ## Other
 Roadmap: https://docs.google.com/presentation/d/1YKlaYhb8Du8clmEt3wMEWZ8F2dONp3Jbetpr2r47ego/edit#slide=id.g22b02b13193_13_0  
