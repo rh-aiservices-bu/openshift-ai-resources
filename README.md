@@ -120,9 +120,3 @@ Easy access to technical OpenShift AI resources, such as demos and release-notes
 [Jira](https://issues.redhat.com/browse/RHODS-11371?jql=project%20%3D%20rhods%20AND%20%22Target%20Release%22%20%3D%20RHODS_1.31.0_GA) | [Official release documentation](https://access.redhat.com/documentation/en-us/red_hat_openshift_data_science_self-managed/1.31/html/1.31_release_notes)
 
 - Internal work for Watson.X
-
-## Other
-Roadmap: https://docs.google.com/presentation/d/1YKlaYhb8Du8clmEt3wMEWZ8F2dONp3Jbetpr2r47ego/edit#slide=id.g22b02b13193_13_0  
-Self-managed documentation: https://access.redhat.com/documentation/en-us/red_hat_openshift_data_science_self-managed/1-latest  
-Managed documentation: https://access.redhat.com/documentation/en-us/red_hat_openshift_data_science/1  
-Learning material: https://docs.google.com/document/d/1oRDjbY2vEtPOAej01qlkMlhEa4CvozDRT8J6LURPmYo  
