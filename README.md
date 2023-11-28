@@ -87,6 +87,11 @@ Easy access to technical OpenShift AI resources, such as demos and release-notes
 <td>Oct 4, 2023</td>
 </tr>
 <tr>
+<td><a href="https://github.com/sa-mw-dach/windy-journey/tree/main">Workshop: Windturbine damage detection</td>
+<td>This repository serves as the foundation for the Windy Journey workshop</br>Note: GPU is advised to run it.</td>
+<td>Nov 28, 2023</td>
+</tr>
+<tr>
 <td><a href="https://github.com/redhat-et/foundation-models-for-documentation/blob/master/notebooks/finetune/Flan-T5-3B/RosaQA.ipynb">Notebook for fine-tuning FLAN-T5 (an LLM)</td>
 <td>A notebook that finetunes a Flan-T5 model from HuggingFace on ROSA documentation and compares results before and after.</br>Note: large GPU is required to run it.</td>
 <td>Jun 16, 2023</td>
